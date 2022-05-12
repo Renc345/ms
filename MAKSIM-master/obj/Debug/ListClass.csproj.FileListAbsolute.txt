@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\MAKSIM-master\obj\Debug\ListClass.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MAKSIM-master\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\MAKSIM-master\obj\Debug\WindowAddPreparate.g.cs
+C:\Users\User\Desktop\MAKSIM-master\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MAKSIM-master\obj\Debug\ListClass_MarkupCompile.cache
+C:\Users\User\Desktop\MAKSIM-master\obj\Debug\ListClass_MarkupCompile.lref
+C:\Users\User\Desktop\MAKSIM-master\bin\Debug\ListClass.exe.config
+C:\Users\User\Desktop\MAKSIM-master\bin\Debug\ListClass.exe
+C:\Users\User\Desktop\MAKSIM-master\bin\Debug\ListClass.pdb
+C:\Users\User\Desktop\MAKSIM-master\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\MAKSIM-master\obj\Debug\WindowAddPreparate.baml
+C:\Users\User\Desktop\MAKSIM-master\obj\Debug\ListClass.g.resources
+C:\Users\User\Desktop\MAKSIM-master\obj\Debug\ListClass.Properties.Resources.resources
+C:\Users\User\Desktop\MAKSIM-master\obj\Debug\ListClass.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MAKSIM-master\obj\Debug\ListClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MAKSIM-master\obj\Debug\ListClass.exe
+C:\Users\User\Desktop\MAKSIM-master\obj\Debug\ListClass.pdb
